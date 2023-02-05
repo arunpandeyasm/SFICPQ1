@@ -1,0 +1,7 @@
+[
+    "IntegrationProcedure/dc_CreateOrder",
+    "IntegrationProcedure/dc_SubmitOrder",
+    "IntegrationProcedure/dc_createAccount",
+    "IntegrationProcedure/dc_createAccountLWC",
+    "IntegrationProcedure/dc_updateBillingDetails"
+]
