@@ -1,12 +1,15 @@
+
 {
     "%vlocity_namespace%__Active__c": true,
     "%vlocity_namespace%__OmniScriptId__c": {
         "Name": "Amend Frame Agreement - Quote",
         "VlocityDataPackType": "VlocityMatchingKeyObject",
         "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AmendFrameAgreement/Quote/English",
-        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+        "StartDate":"%vlocity_Time"
     },
     "%vlocity_namespace%__PropertySet__c": {
+         
         "HTMLTemplateId": "",
         "controlWidth": 12,
         "disOnTplt": false,
