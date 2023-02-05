@@ -1,3 +1,4 @@
+/*Need to make this change s*/
 global with sharing class ApplyFrameContractPrice implements vlocity_cmt.VlocityOpenInterface{
    public Boolean invokeMethod(String methodName, Map<String, Object> input, Map<String, Object> output, Map<String, Object> options)    {
         if (methodName.equals('priceItems')){
